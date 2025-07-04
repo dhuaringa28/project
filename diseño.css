@@ -78,7 +78,7 @@ header{
 
 /*---banner de inicio-----*/
 .banner{
-  background-image: url(../final/fotos/principal.jpg);
+  background-image: url(./fotos/principal.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
